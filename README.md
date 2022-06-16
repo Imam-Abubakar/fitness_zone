@@ -1,1 +1,1 @@
-### Simple exercise website
+### Simple exercise website with APIs
